@@ -1,4 +1,4 @@
-# 中間発表リポジトリ
+# ○○発表リポジトリ
 
 ## 使用方法
 
@@ -11,7 +11,8 @@
 
 ### コマンド
 ```shell
-# 名前が[kirima_syaro]さん発表日が2018/8/8の場合
+#　　中間発表の場合
+# 名前が[kirima_syaro]さんの「中間」発表の日が2018/8/8の場合
 
 # 作ったリポジトリをcloneする
 # github上でつくったリポジトリにあるQuick setupのhttpsのURLをコピー
@@ -34,6 +35,19 @@ $ git push -u origin master
 
 ### slackとの連携
 - [ここ](https://github.com/hillive/documents/wiki/GitHubとSlackの連携)見て
+
+### .texやディレクトリの名前変更
+`YYYYMMDD_AAAA_syarok.tex`の名前を必ず変更してください。
+
+輪講：YYYYMMDD_Rinkou_syarok.tex
+中中間：YYYYMMDD_Chuchukan_syarok.tex
+中間：YYYYMMDD_Chukan_syarok.tex
+最終：YYYYMMDD_Sotsuken_syarok.tex
+
+YYYY :西暦
+MM　：月
+DD　：日
+syarok :名前＋苗字の最初の1文字(例の場合はkirima syaroのkとsyaro)
 
 ### pushの注意点
 - 1回のコミットごとに毎回pushしない
