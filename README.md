@@ -34,7 +34,7 @@ $ git push -u origin master
 ```
 
 ### slackとの連携
-- [ここ](https://github.com/hillive/documents/wiki/GitHubとSlackの連携)見て
+- [ここ](https://github.com/hillive/documents/wiki/Slack%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA)見て
 
 ### .texやディレクトリの名前変更
 `YYYYMMDD_AAAA_syarok.tex`の名前を必ず変更してください。
