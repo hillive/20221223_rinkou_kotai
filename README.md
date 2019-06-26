@@ -1,4 +1,4 @@
-# ○○発表リポジトリ
+# 発表テンプレリポジトリ
 
 ## 使用方法
 
@@ -11,7 +11,7 @@
 
 ### コマンド
 ```shell
-#　　中間発表の場合
+# 中間発表の場合
 # 名前が[kirima_syaro]さんの「中間」発表の日が2018/8/8の場合
 
 # 作ったリポジトリをcloneする
@@ -40,8 +40,11 @@ $ git push -u origin master
 `YYYYMMDD_AAAA_syarok.tex`の名前を必ず変更してください。
 
 輪講：YYYYMMDD_Rinkou_syarok.tex
+
 中中間：YYYYMMDD_Chuchukan_syarok.tex
+
 中間：YYYYMMDD_Chukan_syarok.tex
+
 最終：YYYYMMDD_Sotsuken_syarok.tex
 
 YYYY :西暦
